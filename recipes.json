@@ -1,3 +1,12 @@
 {
-	"categories": ["Milkshakes", "South Indian Curries", "North Indian Curries","Snacks", "Chat","Pasta","Sweet","Juices"]
+	"categories": [
+		{ "title": "Milkshakes", "bgColor": "#FCE4EC", "fgColor": "#880E4F" },
+		{ "title": "South Indian Curries", "bgColor": "#BBDEFB", "fgColor": "#0D47A1" },
+		{ "title": "North Indian Curries", "bgColor": "#D3CFAB", "fgColor": "#212121" },
+		{ "title": "Snacks", "bgColor": "#A1BAA2", "fgColor": "#212121" },
+		{ "title": "Chat", "bgColor": "#DCB8E2", "fgColor": "#212121" },
+		{ "title": "Pasta", "bgColor": "#B0C5C3", "fgColor": "#212121" },
+		{ "title": "Sweet", "bgColor": "#9674D3", "fgColor": "#212121" },
+		{ "title": "Breakfast items", "bgColor": "#FCE4EC", "fgColor": "#212121" }
+	]
 }
