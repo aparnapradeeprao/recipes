@@ -1,5 +1,5 @@
 {
     "recipes" : [
-        { "title": "Paneer masala", "descriptionKey": "", "imageName": "avacado_banana_milkshake","recipe":"north_indian_curries/paneer_masala.json"}
+        { "title": "Paneer masala", "descriptionKey": "", "imageName": "","recipe":"north_indian_curries/paneer_masala.json"}
     ]
 }
