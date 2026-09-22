@@ -3,3 +3,9 @@
         { "title": "Avacado Milkshake", "descriptionKey":"",  "imageName":"", "recipe":"milkshakes/avacado_milkshake.json"}
     ]
 }
+{
+    "recipes":[
+        { "title":"Strawbery Milkshake","desciptionKey":"","imageName":"","recipe":"milkshakes/strawbery_milkshake.json"}
+
+            ]
+}
