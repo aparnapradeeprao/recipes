@@ -1,0 +1,29 @@
+{
+    "recipes" : [
+        { "title": "Palak Paneer", "descriptionKey": "", "imageName": "","recipe":"north_indian_curries/palak_paneer.json"}
+    ]
+}
+{
+
+  "title":"Palak paneer", 
+    "image": "north_indian_curries/paneer_masala.jpg",
+    "howToPrepare":"Ingredients:\n
+    palak\n
+        Paneer\n
+        Tomatoes\n
+        onion\n
+        green chilli \n
+        coriander powder\n
+        cumin powder\n
+        turmeric powder\n
+        garam masala\n
+        How to prepare:
+        In kadai take some spinach and boil them with some green chillies after it cool down grind the into smooth paste, 
+        In a pan add some oil  then add 1 onion, 3 tomatoes and some salt and fry for 2 minutes
+        now add some, turmeric powder, coriander powder, cumin powder, ginger garlic paste
+        fry until tomatoes and onions are cooked well and now keep them aside and let it cool .
+        Now in a mixer grinder add the fried items and grind it into paste.
+        In a pan add 2 tablespoon of oil add some cumin seed and ground paste then fry for 2 minutes
+        now add fried paneer into the mixture and bring it into a boil add some garam masla and heavy cream and salt to taste and serve
+        this with hot rotis and naan or some hot rice."
+}
