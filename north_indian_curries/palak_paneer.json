@@ -1,12 +1,7 @@
 {
-    "recipes" : [
-        { "title": "Palak Paneer", "descriptionKey": "", "imageName": "","recipe":"north_indian_curries/palak_paneer.json"}
-    ]
-}
-{
 
   "title":"Palak paneer", 
-    "image": "north_indian_curries/paneer_masala.jpg",
+    "image": "north_indian_curries/palak_paneer.jpg",
     "howToPrepare":"Ingredients:\n
     palak\n
         Paneer\n

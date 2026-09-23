@@ -1,5 +1,7 @@
 {
     "recipes" : [
-        { "title": "Paneer masala", "descriptionKey": "", "imageName": "","recipe":"north_indian_curries/paneer_masala.json"}
+        { "title": "Paneer masala", "descriptionKey": "", "imageName": "","recipe":"north_indian_curries/paneer_masala.json"},
+        { "title": "Palak Paneer", "descriptionKey": "", "imageName": "","recipe":"north_indian_curries/palak_paneer.json"}
     ]
+
 }
