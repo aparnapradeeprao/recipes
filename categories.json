@@ -5,7 +5,7 @@
 		{ "title": "North Indian Curries", "bgColor": "#D3CFAB", "fgColor": "#212121", "folder": "north_indian_curries" },
 		{ "title": "Snacks", "bgColor": "#A1BAA2", "fgColor": "#212121", "folder": "snacks" },
 		{ "title": "Chat", "bgColor": "#DCB8E2", "fgColor": "#212121", "folder": "chats" },
-		{ "title": "Pasta", "bgColor": "#B0C5C3", "fgColor": "#212121", "folder": "pasta" },
+		{ "title": "Italian", "bgColor": "#B0C5C3", "fgColor": "#212121", "folder": "italian" },
 		{ "title": "Sweet", "bgColor": "#9674D3", "fgColor": "#212121", "folder": "sweets" },
 		{ "title": "Breakfast items", "bgColor": "#FCE4EC", "fgColor": "#212121", "folder": "breakfast_items" }
 	]
