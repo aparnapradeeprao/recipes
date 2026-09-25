@@ -1,7 +1,7 @@
 {
     "recipes" : [
-        { "title": "Avacado Milkshake", "descriptionKey":"",  "imageName":"", "recipe":"milkshakes/avacado_milkshake.json"},
-        { "title":"Strawbery Milkshake","desciptionKey":"","imageName":"","recipe":"milkshakes/strawbery_milkshake.json"}
+        { "title": "Avacado Milkshake", "recipe":"milkshakes/avacado_milkshake.json"},
+        { "title":"Strawbery Milkshake","recipe":"milkshakes/strawbery_milkshake.json"}
     ]
 }
 

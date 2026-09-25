@@ -1,5 +1,5 @@
 {
     "recipes" : [
-        { "title": "Mavinakayi Gojju", "descriptionKey": "", "imageName": "","recipe":"south_indian_curries/mavinakaayi_gojju.json"}
+        { "title": "Mavinakayi Gojju", "recipe":"south_indian_curries/mavinakaayi_gojju.json"}
     ]
 }

@@ -1,6 +1,6 @@
 {
     "recipes" : [
-        { "title": "Golibaje", "descriptionKey": "", "imageName": "","recipe":"snacks/golibaje.json"}
+        { "title": "Golibaje","recipe":"snacks/golibaje.json"}
     ]
 
 }
