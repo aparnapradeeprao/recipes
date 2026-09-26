@@ -1,0 +1,5 @@
+{
+    "recipes" : [
+        { "title": "Masala Poori", "recipe":"chats/masala_poori/masala_poori.json"}
+    ]
+}
