@@ -1,6 +1,9 @@
 {
     "recipes" : [
         { "title": "Masala poori", "recipe":"chats/masala_poori/masala_poori.json"},
-        { "title": "Samosa Chat", "recipe":"chats/samosa_chat/samosa_chat.json"}
+        { "title": "Samosa Chat", "recipe":"chats/samosa_chat/samosa_chat.json"},
+        { "title": "Pav Bhaji", "recipe":"chats/pav_bhaji/pav_bhaji.json"}
+
+
     ]
 }
