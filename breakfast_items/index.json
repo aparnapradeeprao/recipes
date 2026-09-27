@@ -1,8 +1,5 @@
-{
-    
-    "recipes" : [
+{"recipes" : [
         { "title": "Masala Dosa", "recipe":"breakfast_items/masala_dosa/masala_dosa.json"}
-    ]
+]
 }
-
-    
+     
