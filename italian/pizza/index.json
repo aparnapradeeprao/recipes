@@ -1,5 +1,5 @@
 {
     "recipes" : [
-        { "title": "Pizza ", "recipe":"pizza/pizza/masala_pizza.json"}
+        { "title": "Pizza ", "recipe":"italian/pizza/pizza.json"}
     ]
 }
