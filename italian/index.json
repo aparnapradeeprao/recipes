@@ -2,7 +2,8 @@
     "recipes" : [
         { "title": "Red Pasta", "recipe":"italian/red_pasta/red_pasta.json"},
         { "title": "Corn Spinach Pasta ", "recipe":"italian/corn_spinach_pasta/corn_spinach_pasta.json"},
-        { "title": "Pizza", "recipe":"italian/pizza/pizza.json"}
+        { "title": "Pizza", "recipe":"italian/pizza/pizza.json"},
+        { "title":   "Veg Lasagna","recipe":"italian/veg_lasagna/veg_lasagna.json"}
 
     ]
 }
