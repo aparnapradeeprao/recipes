@@ -1,6 +1,6 @@
 {
     "recipes" : [
         { "title": "mavinakaayi Gojju", "recipe":"south_indian_curries/mavinakaayi_gojju/mavinakaayi_gojju.json"},
-         { "title": "mavinakaayi Gojju", "recipe":"south_indian_curries/palak_tambuli/palak_tambuli.json"}       
+         { "title": "Palak Tambuli", "recipe":"south_indian_curries/palak_tambuli/palak_tambuli.json"}       
     ]
 }
