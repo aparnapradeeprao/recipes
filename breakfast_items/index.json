@@ -1,5 +1,7 @@
 {"recipes" : [
-{ "title": "Masala Dosa", "recipe":"breakfast_items/masala_dosa/masala_dosa.json"}
+{ "title": "Masala Dosa", "recipe":"breakfast_items/masala_dosa/masala_dosa.json"},
+{ "title": "Broken wheat Kichdi", "recipe":"breakfast_items/broken_wheat_kichdi/broken_wheat_kichdi.json"}
+
 ]
 }
      
