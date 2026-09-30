@@ -7,6 +7,7 @@
 		{ "title": "Chat", "bgColor": "#DCB8E2", "fgColor": "#212121", "folder": "chats" },
 		{ "title": "Italian", "bgColor": "#B0C5C3", "fgColor": "#212121", "folder": "italian" },
 		{ "title": "Sweet", "bgColor": "#9674D3", "fgColor": "#212121", "folder": "sweets" },
-		{ "title": "Breakfast items", "bgColor": "#FCE4EC", "fgColor": "#212121", "folder": "breakfast_items" }
+		{ "title": "Breakfast items", "bgColor": "#FCE4EC", "fgColor": "#212121", "folder": "breakfast_items" },
+		{ "title": "Salads","bgColor":"#A1BAA2", "fgColor":"#0D47A1","folder":"salads"}
 	]
 }
