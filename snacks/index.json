@@ -1,7 +1,9 @@
 {
     "recipes" : [
         { "title": "Golibaje","recipe":"snacks/golibaje/golibaje.json"},
-        { "title": "Samosa","recipe":"snacks/samosa/samosa.json"}
+        { "title": "Samosa","recipe":"snacks/samosa/samosa.json"},
+        { "title": "Muruku","recipe":"snacks/muruku/muruku.json"}
+
 
     ]
 
