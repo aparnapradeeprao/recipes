@@ -1,5 +1,7 @@
 {
   "recipes" : [
-        { "title": "Kalu Ladu", "recipe":"sweets/kalu_ladu/kalu_ladu.json"}
+        { "title": "Kalu Ladu", "recipe":"sweets/kalu_ladu/kalu_ladu.json"},
+        { "title": "Balushahi", "recipe":"sweets/balushahi/balushahi.json"}
+
     ]
 }  
